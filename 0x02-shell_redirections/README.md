@@ -1,1 +1,1 @@
-This is a script that prints "hello World" followed by a new line to the standard output.
+echo '0x02. Shell, I/O Redirections and filter'
